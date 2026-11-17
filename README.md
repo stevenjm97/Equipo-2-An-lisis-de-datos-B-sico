@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
+Equipo E2 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 > **Cómo llenar este archivo:** borra «Escribe aquí» y responde debajo de cada pregunta. Si todavía no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar. No inventes datos.
 
@@ -9,22 +9,23 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 > ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
 
-Escribe aquí.
+Gerente comercial, identifica los eventos o patrones que generan mayores ventas sin afectar rentabilidad 
 
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
 
-Escribe aquí.
+¿Que tipo de eventos o empresas permiten continuar con el crecimiento de ventas, pero sin disminuir el margen de rentabilidad?
 
 ### 3. Fuente de datos
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
-Escribe aquí.
+Base de datos sintética 
 
 ### 4. Qué representa una fila
 > Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
-Cada fila es…
+evento id: Código del evento realizado o cotizado, fecha: Fecha de la realización del evento, tipo evento: Clasificación del evento, sector cliente: Sector económico relacionado con el evento, ciudad: Lugar donde se desarrolla el evento, asistentes: Cantidad total de asistentes en el evento, 
+precio venta: Valor cobrado al cliente, costo estimado: Valor presupuestado de la operación del evento, costo real: Valor final de la operación del evento, estado: Etapa del evento
 
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?

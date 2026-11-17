@@ -28,22 +28,31 @@ evento id: Código del evento realizado o cotizado, fecha: Fecha de la realizaci
 precio venta: Valor cobrado al cliente, costo estimado: Valor presupuestado de la operación del evento, costo real: Valor final de la operación del evento, estado: Etapa del evento
 
 ### 5. Periodo
-> ¿Qué fechas cubren los datos?
+> ¿Qué fechas cubren los datos?Fecha inicial: 1 de enero de 2024.
 
+Fecha final: 31 de octubre de 2026.
+Periodo analizado: 2 años y 10 meses.
+Total de registros: 609 eventos.
+Fechas válidas identificadas: 607 registros.
 Escribe aquí.
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+ Indicador	                      ¿Qué mide?	                                  ¿Para qué sirve?
+1. Crecimiento de ventas (%)	 Variación de ingresos entre periodos.	   Saber si el negocio está creciendo.
+2. Margen de rentabilidad (%)	 Utilidad / ventas × 100.	                 Verificar si se conserva la rentabilidad.
+3. Costo real vs. estimado (%)	Diferencia entre lo presupuestado y lo ejecutado.	Detectar sobrecostos.
+4. Costo por evento ($)	Costo real / número de eventos realizados.	Controlar cuánto cuesta operar.
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
+Escribe aquí. 
+financieros ni la identificación de factores externos que puedan afectar el comportamiento comercial.
+Tampoco busca medir la satisfacción de los clientes, evaluar el desempeño individual de los colaboradores, garantizar proyecciones de ventas futuras ni realizar una optimización integral de los procesos operativos.
+El análisis se limitará a la información histórica disponible en la base de datos, enfocándose en el comportamiento de las ventas, los costos estimados y reales, la utilidad por evento y los márgenes de rentabilidad por tipo de evento, ciudad y sector del cliente.
+Las conclusiones y recomendaciones estarán condicionadas a la calidad, integridad y disponibilidad de los datos registrados.
 
 ## Si alcanzas hoy (para el jueves es obligatorio)
 

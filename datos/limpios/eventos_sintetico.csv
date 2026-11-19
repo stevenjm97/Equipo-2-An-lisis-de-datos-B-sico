@@ -1,0 +1,610 @@
+evento_id,fecha,tipo_evento,sector_cliente,ciudad,asistentes,precio_venta,costo_estimado,costo_real,estado
+EV001,2024-01-01,Conferencia,Educación,Medellín,110,21140000,13290000,13250000,realizado
+EV002,2024-01-02,Fiesta corporativa,Tecnología,Bogotá,427,70540000,49700000,57230000,realizado
+EV003,2024-01-07,Lanzamiento de producto,Comercio,Cali,236,49010000,31040000,31280000,realizado
+EV004,2024-01-08,Feria comercial,Comercio,Bogotá,451,42930000,31010000,33020000,realizado
+EV005,2024-01-10,Feria comercial,Comercio,Cali,479,45010000,31710000,34680000,realizado
+EV006,2024-01-11,Capacitación,Educación,Medellín,39,9730000,5590000,5620000,realizado
+EV007,2024-01-12,Conferencia,Educación,Medellín,191,33580000,21030000,,cancelado
+EV008,2024-01-15,Fiesta corporativa,Tecnología,Bogotá,438,71770000,50810000,54730000,realizado
+EV009,2024-01-24,Conferencia,Salud,Cali,103,18040000,11350000,10840000,realizado
+EV010,2024-01-26,Conferencia,Salud,Bogotá,187,32980000,20030000,20420000,realizado
+EV011,2024-01-28,Capacitación,Educación,Medellín,51,11910000,6930000,6680000,realizado
+EV012,2024-01-29,Fiesta corporativa,Comercio,Bogotá,377,57960000,40030000,45400000,realizado
+EV013,2024-01-31,Feria comercial,Tecnología,Medellín,726,63570000,46680000,,cancelado
+EV014,2024-02-01,Fiesta corporativa,Tecnología,Medellín,251,39740000,27850000,29830000,realizado
+EV015,2024-02-08,Lanzamiento de producto,Comercio,Medellín,246,54640000,35170000,35280000,realizado
+EV016,2024-02-11,Capacitación,Salud,Medellín,51,13710000,7990000,8310000,realizado
+EV017,2024-02-13,Capacitación,Comercio,Bogotá,23,5860000,3490000,3650000,realizado
+EV018,2024-02-14,Conferencia,Financiero,Medellín,215,37610000,23570000,23600000,realizado
+EV019,2024-02-15,Capacitación,Comercio,Medellín,59,14510000,8190000,7890000,realizado
+EV020,2024-02-16,Capacitación,Educación,Medellín,46,11010000,6380000,6250000,realizado
+EV021,2024-02-20,Capacitación,Educación,Cali,54,13400000,7890000,8110000,realizado
+EV022,2024-02-21,Conferencia,Tecnología,Bogotá,195,35920000,22660000,21630000,realizado
+EV023,2024-02-22,Conferencia,Salud,Bogotá,150,27900000,17120000,17930000,realizado
+EV024,2024-02-24,Conferencia,Financiero,Bogotá,101,17410000,11070000,10990000,realizado
+EV025,2024-02-25,Capacitación,Financiero,Bogotá,26,5990000,3580000,3540000,realizado
+EV026,2024-02-26,Capacitación,Comercio,Medellín,41,10320000,5980000,6160000,realizado
+EV027,2024-02-27,Fiesta corporativa,Comercio,Medellín,153,22830000,16100000,18650000,realizado
+EV028,2024-02-29,Fiesta corporativa,Financiero,Medellín,165,24640000,17310000,18590000,realizado
+EV029,2024-03-01,Capacitación,Educación,Bogotá,23,6010000,3440000,3520000,realizado
+EV030,2024-03-03,Conferencia,Financiero,Bogotá,239,41200000,25770000,26180000,realizado
+EV031,2024-03-04,Capacitación,Financiero,Medellín,57,13660000,8030000,7840000,realizado
+EV032,2024-03-05,Capacitación,Comercio,Bogotá,52,12040000,6860000,6780000,realizado
+EV033,2024-03-06,Capacitación,Salud,Medellín,49,12870000,7270000,7270000,realizado
+EV034,2024-03-09,Capacitación,Educación,Medellín,46,11300000,6630000,6340000,realizado
+EV035,2024-03-12,Conferencia,Financiero,Bogotá,153,26300000,16070000,16790000,realizado
+EV036,2024-03-15,Conferencia,Financiero,Bogotá,240,40840000,24750000,25120000,realizado
+EV037,2024-03-17,Capacitación,Educación,Bogotá,57,14910000,8720000,8670000,realizado
+EV038,2024-03-21,Fiesta corporativa,Tecnología,Medellín,283,46790000,32360000,34590000,realizado
+EV039,2024-03-22,Fiesta corporativa,Comercio,Bogotá,158,25930000,18540000,21460000,realizado
+EV040,2024-03-24,Conferencia,Tecnología,Medellín,127,23290000,14240000,14770000,realizado
+EV041,2024-03-26,Conferencia,Tecnología,Medellín,82,15670000,9720000,9970000,realizado
+EV042,2024-03-28,Conferencia,Salud,Medellín,115,21510000,13460000,13220000,realizado
+EV043,2024-03-29,Lanzamiento de producto,Salud,Medellín,175,41240000,26510000,28570000,realizado
+EV044,2024-04-01,Lanzamiento de producto,Comercio,Bogotá,262,54270000,34620000,,cancelado
+EV045,2024-04-02,Conferencia,Salud,Bogotá,132,24670000,15210000,14930000,realizado
+EV046,2024-04-03,Lanzamiento de producto,Comercio,Medellín,180,42460000,27460000,28140000,realizado
+EV047,2024-04-04,Capacitación,Salud,Medellín,48,12490000,7220000,7130000,realizado
+EV048,2024-04-05,Capacitación,Salud,Bogotá,44,10370000,6120000,5940000,realizado
+EV049,2024-04-11,Conferencia,Tecnología,Medellín,244,44900000,27360000,27550000,realizado
+EV050,2024-04-12,Lanzamiento de producto,Comercio,Medellín,186,38010000,24810000,25950000,realizado
+EV051,2024-04-13,Capacitación,Educación,Medellín,48,11520000,6710000,6890000,realizado
+EV052,2024-04-14,Conferencia,Tecnología,Cali,147,27940000,17800000,17070000,realizado
+EV053,2024-04-15,Fiesta Corporativa ,Financiero,Medellín,281,40460000,28710000,32440000,realizado
+EV054,2024-04-20,Lanzamiento de producto,Tecnología,Medellín,216,50750000,32080000,,cancelado
+EV055,2024-04-24,Feria comercial,Tecnología,Medellín,488,42170000,29730000,,cancelado
+EV056,2024-04-25,Conferencia,Educación,Bogotá,91,15670000,9630000,9220000,realizado
+EV057,2024-04-26,Conferencia,Salud,Medellín,221,38740000,24260000,24030000,realizado
+EV058,2024-05-01,Lanzamiento de producto,Tecnología,Medellín,118,24260000,15770000,16960000,realizado
+EV059,2024-05-02,Conferencia,Financiero,Medellín,110,20680000,12870000,12710000,realizado
+EV060,2024-05-03,Capacitación,Comercio,Bogotá,39,9260000,5510000,5770000,realizado
+EV061,2024-05-04,Lanzamiento de producto,Tecnología,Medellín,110,23940000,15670000,16500000,realizado
+EV062,2024-05-06,Conferencia,Educación,Medellín,144,24690000,15540000,15130000,realizado
+EV063,2024-05-07,Conferencia,Salud,Bogotá,159,27860000,17220000,16880000,realizado
+EV064,2024-05-09,Capacitación,Financiero,Medellín,36,8480000,4840000,4970000,realizado
+EV065,2024-05-10,Capacitación,Comercio,Medellín,46,11300000,6570000,,cancelado
+EV066,2024-05-12,Lanzamiento de producto,Tecnología,Medellín,227,48980000,31990000,33320000,realizado
+EV067,2024-05-13,Capacitación,Educación,Medellín,32,8450000,4870000,4680000,realizado
+EV068,2024-05-20,Capacitación,Salud,Bogotá,51,11900000,6770000,7010000,realizado
+EV069,2024-05-21,Conferencia,Educación,Bogotá,98,18860000,11770000,12000000,realizado
+EV070,2024-05-22,Capacitación,Educación,Medellín,31,7820000,4480000,4690000,realizado
+EV071,2024-05-27,Conferencia,Salud,Medellín,144,27390000,17060000,16590000,realizado
+EV072,2024-05-29,Conferencia,Tecnología,Medellín,249,46120000,28210000,,cancelado
+EV073,2024-06-01,Capacitación,Salud,Bogotá,29,7110000,4130000,4190000,realizado
+EV074,2024-06-02,Conferencia,Tecnología,Bogotá,173,30670000,18600000,18150000,realizado
+EV075,2024-06-03,Lanzamiento de producto,Comercio,Medellín,291,62870000,39820000,40340000,realizado
+EV076,2024-06-04,Capacitación,Comercio,Medellín,60,15990000,9320000,8980000,realizado
+EV077,2024-06-05,Conferencia,Salud,Cali,113,19380000,12320000,12920000,realizado
+EV078,2024-06-07,Conferencia,Salud,Bogotá,135,24930000,15870000,15250000,realizado
+EV079,2024-06-13,Conferencia,Salud,Bogotá,206,36050000,22790000,21940000,realizado
+EV080,2024-06-17,Fiesta corporativa,Financiero,Medellín,358,55080000,39240000,44590000,realizado
+EV081,2024-06-18,Capacitación,Comercio,Medellín,45,11890000,6950000,6640000,realizado
+EV082,2024-06-19,Conferencia ,Tecnología,Medellín,165,30680000,19450000,19160000,realizado
+EV083,2024-06-24,Capacitación,Educación,Bogotá,20,4640000,2680000,2700000,realizado
+EV084,2024-06-28,Feria comercial,Tecnología,Medellín,691,59500000,44110000,47350000,realizado
+EV085,2024-06-29,Conferencia,Educación,Bogotá,187,34590000,21540000,21240000,realizado
+EV086,2024-07-04,Conferencia,Tecnología,Medellín,247,45910000,28070000,28350000,realizado
+EV087,2024-07-07,Conferencia,Educación,Medellín,243,47050000,28340000,28970000,realizado
+EV088,2024-07-11,Capacitación,Financiero,Medellín,53,12300000,7010000,7080000,realizado
+EV089,2024-07-12,Lanzamiento de producto,Comercio,Medellín,272,60560000,38640000,41900000,realizado
+EV090,2024-07-13,Capacitación,Comercio,Medellín,51,11910000,6740000,6760000,realizado
+EV091,2024-07-16,Capacitación,Comercio,Bogotá,48,11800000,7010000,7210000,realizado
+EV092,2024-07-18,Conferencia,Tecnología,Medellín,113,19200000,11600000,11670000,realizado
+EV093,2024-07-19,Capacitación,Financiero,Bogotá,58,13550000,7920000,7620000,realizado
+EV094,2024-07-22,Conferencia,Tecnología,Cali,229,44260000,26780000,27520000,realizado
+EV095,2024-07-24,Conferencia,Educación,Medellín,199,34650000,21630000,21960000,realizado
+EV096,2024-07-27,Conferencia,Educación,Medellín,144,24410000,14800000,14480000,realizado
+EV097,2024-07-29,Lanzamiento de producto,Tecnología,Medellín,153,32410000,21070000,21870000,realizado
+EV098,2024-07-30,Capacitación,Salud,Medellín,59,14120000,8230000,8200000,realizado
+EV099,2024-07-31,Conferencia,Educación,Medellín,132,25060000,15380000,15300000,realizado
+EV100,2024-08-08,Conferencia,Educación,Cali,210,36180000,21790000,22480000,realizado
+EV101,2024-08-09,Lanzamiento de producto,Comercio,Medellín,212,44800000,28410000,30690000,realizado
+EV102,2024-08-12,Lanzamiento de producto,Comercio,Cali,209,48470000,31880000,34420000,realizado
+EV103,2024-08-13,Feria comercial,Comercio,Medellín,767,75810000,53670000,58410000,realizado
+EV104,2024-08-14,Feria comercial,Tecnología,Bogotá,618,53140000,37520000,,realizado
+EV105,2024-08-15,Capacitación,Comercio,Medellín,47,12540000,7180000,7080000,realizado
+EV106,2024-08-16,Conferencia,Financiero,Medellín,238,45330000,28530000,29290000,realizado
+EV107,2024-08-18,Conferencia,Tecnología,Bogotá,173,29710000,18290000,17570000,realizado
+EV108,2024-08-19,Feria comercial,Comercio,Bogotá,545,50090000,35050000,38940000,realizado
+EV109,2024-08-24,Fiesta corporativa,Financiero,Cali,227,33750000,23610000,25180000,realizado
+EV110,2024-08-25,Lanzamiento de producto,Tecnología,Medellín,218,45320000,29930000,30940000,realizado
+EV111,2024-08-29,Fiesta corporativa,Tecnología,Medellín,293,43500000,30000000,33330000,realizado
+EV112,2024-08-30,Feria comercial,Comercio,Medellín,509,44930000,33010000,35770000,realizado
+EV113,2024-09-01,Lanzamiento de producto,Tecnología,Bogotá,203,48310000,32100000,35190000,realizado
+EV114,2024-09-02,Capacitación,Financiero,Medellín,51,13150000,7830000,7870000,realizado
+EV115,2024-09-03,Fiesta corporativa,Financiero,Medellín,445,74200000,53320000,57500000,realizado
+EV116,2024-09-07,Lanzamiento de producto,Comercio,Bogotá,235,52850000,33670000,35350000,realizado
+EV117,2024-09-10,Conferencia,Financiero,Medellín,121,22580000,13740000,13560000,realizado
+EV118,2024-09-12,Conferencia,Financiero,Medellín,164,29260000,17730000,17950000,realizado
+EV119,2024-09-13,Conferencia,Educación,Medellín,199,36970000,22490000,22740000,realizado
+EV120,2024-09-14,Feria comercial,Tecnología,Bogotá,336,31840000,22760000,24210000,realizado
+EV121,2024-09-22,Conferencia,Educación,Bogotá,173,29940000,18190000,18110000,realizado
+EV122,2024-09-24,Capacitación,Educación,Cali,56,13370000,7810000,7490000,realizado
+EV123,2024-09-28,Conferencia,Tecnología,Medellín,218,38990000,24690000,25390000,realizado
+EV124,2024-09-30,Capacitación,Comercio,Bogotá,40,10100000,5860000,6090000,realizado
+EV125,2024-10-01,Capacitación,Educación,Medellín,22,5070000,3020000,2900000,realizado
+EV126,2024-10-03,Conferencia,Tecnología,Medellín,159,30750000,19360000,18480000,realizado
+EV127,2024-10-04,Conferencia,Financiero,Cali,227,43690000,26880000,27510000,realizado
+EV128,2024-10-06,Conferencia,Tecnología,Medellín,167,28030000,17560000,18190000,realizado
+EV129,2024-10-07,Lanzamiento de producto,Comercio,Bogotá,148,32890000,21200000,21840000,realizado
+EV130,2024-10-08,Lanzamiento de producto,Tecnología,Medellín,129,26700000,17520000,18500000,realizado
+EV131,2024-10-10,Lanzamiento de producto,Tecnología,Bogotá,121,27990000,18330000,18840000,realizado
+EV132,2024-10-15,Conferencia,Tecnología,Medellín,135,23820000,14880000,14680000,realizado
+EV133,2024-10-17,Lanzamiento de producto,Comercio,Medellín,221,49340000,32720000,34330000,realizado
+EV134,2024-10-25,Conferencia,Salud,Medellín,126,22610000,14270000,14810000,realizado
+EV135,2024-10-29,Conferencia,Financiero,Medellín,151,25060000,15720000,15500000,realizado
+EV136,2024-10-30,Lanzamiento de producto,Comercio,Medellín,101,23970000,15670000,17110000,realizado
+EV137,2024-11-04,Feria comercial,Salud,Medellín,513,49690000,35900000,39860000,realizado
+EV138,2024-11-05,Feria comercial,Comercio,Medellín,312,27570000,20040000,21330000,realizado
+EV139,2024-11-10,Lanzamiento de producto,Tecnología,Bogotá,128,26570000,17040000,17160000,realizado
+EV140,2024-11-12,Capacitación,Comercio,Bogotá,48,12580000,7240000,7590000,realizado
+EV141,2024-11-15,Conferencia,Financiero,Cali,203,35250000,21350000,20570000,realizado
+EV142,2024-11-16,Lanzamiento de producto,Comercio,Bogotá,209,48620000,31770000,31850000,realizado
+EV143,2024-11-17,Conferencia,Educación,Medellín,142,24220000,14720000,15120000,realizado
+EV144,2024-11-18,Lanzamiento de producto,Tecnología,Bogotá,260,53430000,35140000,38250000,realizado
+EV145,2024-11-19,Conferencia,Salud,Medellín,196,34110000,21550000,20780000,realizado
+EV146,2024-11-20,Feria comercial,Comercio,Cali,390,33930000,23940000,25280000,realizado
+EV147,2024-11-21,Conferencia,Tecnología,Bogotá,207,34470000,21990000,22140000,realizado
+EV148,2024-11-25,Conferencia,Educación,Bogotá,178,33950000,20870000,21600000,realizado
+EV149,2024-11-26,Fiesta corporativa,Financiero,Bogotá,163,24270000,17210000,,cancelado
+EV150,2024-11-28,Feria comercial,Comercio,Medellín,658,63760000,47080000,51290000,realizado
+EV151,2024-12-03,Capacitación,Educación,Medellín,36,9590000,5460000,5690000,realizado
+EV152,2024-12-05,Conferencia,Educación,Medellín,199,34220000,21530000,20760000,realizado
+EV153,2024-12-10,Capacitación,Salud,Medellín,21,5480000,3270000,3420000,realizado
+EV154,2024-12-12,Conferencia,Financiero,Cali,95,16690000,10590000,10130000,realizado
+EV155,2024-12-14,Capacitación,Educación,Bogotá,21,5080000,3010000,2880000,realizado
+EV156,2024-12-15,Lanzamiento de producto,Tecnología,Medellín,276,62200000,41270000,43080000,realizado
+EV157,2024-12-16,Capacitación,Educación,Cali,23,5330000,3040000,3050000,realizado
+EV158,2024-12-17,Capacitación,Comercio,Medellín,28,7190000,4280000,4260000,realizado
+EV159,2024-12-19,Feria comercial,Comercio,Bogotá,731,66440000,47380000,52790000,realizado
+EV160,2024-12-22,Conferencia,Financiero,Medellín,104,19840000,12440000,12490000,realizado
+EV161,2024-12-26,Conferencia,Financiero,Medellín,236,42140000,26560000,26270000,realizado
+EV162,2024-12-27,Lanzamiento de producto,Comercio,Bogotá,209,47120000,30570000,31670000,realizado
+EV163,2024-12-28,lanzamiento de producto,Comercio,Medellín,136,27980000,18620000,20460000,realizado
+EV164,2024-12-31,Conferencia,Salud,Medellín,154,26910000,16600000,16020000,realizado
+EV165,2025-01-01,Conferencia,Salud,Medellín,102,17220000,10880000,11300000,realizado
+EV166,2025-01-04,Capacitación,Educación,Medellín,46,11960000,7140000,6930000,realizado
+EV167,2025-01-06,Conferencia,Tecnología,Medellín,218,37490000,23240000,22900000,realizado
+EV168,2025-01-07,Feria comercial,Comercio,Cali,629,57460000,41210000,46810000,realizado
+EV169,2025-01-10,Lanzamiento de producto,Tecnología,Medellín,106,23280000,15210000,15460000,realizado
+EV170,2025-01-11,Capacitación,Educación,Bogotá,51,13050000,7710000,7620000,realizado
+EV171,2025-01-12,Lanzamiento de producto,Salud,Bogotá,274,64530000,41270000,43110000,realizado
+EV172,2025-01-14,Conferencia,Salud,Cali,183,34070000,21640000,21790000,realizado
+EV173,2025-01-19,Capacitación,Financiero,Medellín,51,13370000,7870000,7850000,realizado
+EV174,2025-01-20,Fiesta corporativa,Financiero,Cali,419,64580000,44670000,,cancelado
+EV175,2025-01-21,Conferencia,Educación,Cali,203,35810000,22200000,21310000,realizado
+EV176,2025-01-23,Capacitación,Financiero,Medellín,31,7460000,4360000,4190000,realizado
+EV177,2025-01-24,Capacitación,Salud,Medellín,35,9400000,5470000,5260000,realizado
+EV178,2025-01-25,Feria comercial,Comercio,Bogotá,386,32770000,23350000,26470000,realizado
+EV179,2025-01-28,Conferencia,Educación,Medellín,82,15550000,9610000,9360000,realizado
+EV180,2025-01-29,Capacitación,Comercio,Bogotá,58,13860000,8090000,,cancelado
+EV181,2025-01-30,Lanzamiento de producto,Tecnología,Bogotá,219,45940000,30730000,,cancelado
+EV182,2025-01-31,Capacitación,Educación,Medellín,36,8820000,5020000,5140000,realizado
+EV183,2025-02-02,Capacitación,Salud,Medellín,33,8820000,5210000,5220000,realizado
+EV184,2025-02-05,Conferencia,Salud,Medellín,224,40060000,25380000,24610000,realizado
+EV185,2025-02-06,Fiesta corporativa,Financiero,Bogotá,175,24810000,16860000,20810000,realizado
+EV186,2025-02-07,Capacitación,Comercio,Medellín,41,9880000,5580000,5310000,realizado
+EV187,2025-02-08,Lanzamiento de producto,Comercio,Medellín,120,25570000,16910000,17220000,realizado
+EV188,2025-02-09,Feria comercial,Tecnología,Medellín,543,51430000,37800000,44250000,realizado
+EV189,2025-02-10,Capacitación,Financiero,Bogotá,52,12570000,7290000,6940000,realizado
+EV190,2025-02-11,Conferencia,Salud,Medellín,221,40520000,24970000,25900000,realizado
+EV191,2025-02-12,Capacitación,Educación,Medellín,45,10950000,6260000,6460000,realizado
+EV192,2025-02-13,Lanzamiento de producto,Tecnología,Bogotá,143,31710000,20900000,22370000,realizado
+EV193,2025-02-14,Conferencia,Tecnología,Medellín,97,18540000,11430000,11030000,realizado
+EV194,2025-02-16,Feria comercial,Tecnología,Medellín,371,34800000,24330000,29390000,realizado
+EV195,2025-02-19,Conferencia,Financiero,Bogotá,193,35800000,21750000,21200000,realizado
+EV196,2025-02-20,Capacitación,Educación,Medellín,56,14680000,8360000,8600000,realizado
+EV197,2025-02-21,Capacitación,Educación,Bogotá,40,9440000,5540000,5520000,realizado
+EV198,2025-02-22,Feria comercial,Salud,Cali,447,39610000,28830000,32530000,realizado
+EV199,2025-02-23,Fiesta corporativa,Comercio,Medellín,451,71030000,50610000,62130000,realizado
+EV200,2025-02-25,Feria comercial,Salud,Bogotá,706,68000000,48190000,60210000,realizado
+EV201,2025-03-01,Capacitación,Educación,Medellín,37,9320000,5480000,5590000,realizado
+EV202,2025-03-03,Conferencia,Tecnología,Medellín,207,38020000,23940000,22750000,realizado
+EV203,2025-03-04,Feria comercial,Comercio,Medellín,652,61000000,43660000,50210000,realizado
+EV204,2025-03-05,Capacitación,Educación,Medellín,53,14160000,8300000,7890000,realizado
+EV205,2025-03-08,Feria comercial,Tecnología,Medellín,647,56030000,39950000,49510000,realizado
+EV206,2025-03-09,Capacitación,Salud,Bogotá,38,9290000,5510000,5260000,realizado
+EV207,2025-03-10,Capacitación,Educación,Medellín,21,5150000,3040000,2920000,realizado
+EV208,2025-03-14,Conferencia,Tecnología,Medellín,213,37640000,23340000,23020000,realizado
+EV209,2025-03-15,Capacitación,Educación,Bogotá,36,9590000,5580000,5640000,realizado
+EV210,2025-03-17,Lanzamiento de producto,Tecnología,Bogotá,149,33240000,21690000,23000000,realizado
+EV211,2025-03-18,Capacitación,Educación,Medellín,51,12010000,7040000,6770000,realizado
+EV212,2025-03-19,Capacitación,Educación,Medellín,47,11800000,6710000,6440000,realizado
+EV213,2025-03-20,Feria comercial,Comercio,Cali,769,66680000,48390000,58300000,realizado
+EV214,2025-03-21,Conferencia,Educación,Medellín,143,26890000,17060000,16980000,realizado
+EV215,2025-03-26,Capacitación,Salud,Medellín,59,15410000,8740000,8920000,realizado
+EV216,2025-03-29,Conferencia,Salud,Medellín,157,29650000,18530000,18240000,realizado
+EV217,2025-04-01,Conferencia,Tecnología,Medellín,227,42680000,26320000,26020000,realizado
+EV218,2025-04-02,Capacitación,Comercio,Bogotá,24,5600000,3340000,3170000,realizado
+EV219,2025-04-03,Conferencia,Tecnología,Medellín,216,41740000,25210000,26150000,realizado
+EV220,2025-04-04,Lanzamiento de producto,Tecnología,Medellín,257,59820000,39270000,40910000,realizado
+EV221,2025-04-05,Feria comercial,Comercio,Bogotá,709,64530000,45470000,53450000,realizado
+EV222,2025-04-31,Fiesta corporativa,Financiero,Medellín,187,29480000,20530000,25610000,realizado
+EV223,2025-04-09,Capacitación,Educación,Medellín,59,13790000,7960000,7760000,realizado
+EV224,2025-04-10,Capacitación,Comercio,Medellín,21,5600000,3180000,3250000,realizado
+EV225,2025-04-11,Fiesta corporativa,Financiero,Bogotá,210,31180000,21480000,27350000,realizado
+EV226,2025-04-12,Capacitación,Comercio,Bogotá,38,9460000,5550000,,cancelado
+EV227,2025-04-15,Conferencia,Educación,Bogotá,93,16860000,10510000,10440000,realizado
+EV228,2025-04-16,Capacitación,Salud,Cali,42,10110000,5780000,5600000,realizado
+EV229,2025-04-18,Fiesta corporativa,Comercio,Medellín,348,49320000,35460000,42850000,realizado
+EV230,2025-04-20,Lanzamiento de producto,Tecnología,Medellín,141,33230000,21690000,22750000,realizado
+EV231,2025-04-21,Feria comercial,Salud,Medellín,380,33190000,24290000,29910000,realizado
+EV232,2025-04-22,Fiesta corporativa,Financiero,Medellín,174,24790000,17440000,20080000,realizado
+EV233,2025-04-23,Fiesta corporativa,Financiero,Bogotá,269,40740000,28860000,35600000,realizado
+EV234,2025-04-29,Feria comercial,Salud,Cali,367,31220000,22240000,24660000,realizado
+EV235,2025-04-30,Capacitación,Educación,Medellín,48,11930000,7110000,7180000,realizado
+EV236,2025-05-01,Conferencia,Tecnología,Medellín,133,22180000,13740000,13140000,realizado
+EV237,2025-05-03,Fiesta corporativa,Financiero,Medellín,402,61890000,43990000,54020000,realizado
+EV238,2025-05-04,Capacitación,Salud,Bogotá,21,5670000,3350000,3260000,realizado
+EV239,2025-05-07,Conferencia,Educación,Medellín,169,32350000,19810000,20640000,realizado
+EV240,2025-05-10,Capacitación,Educación,Bogotá,49,11570000,6830000,6620000,realizado
+EV241,2025-05-11,Capacitación,Educación,Bogotá,20,5010000,2930000,3070000,realizado
+EV242,2025-05-14,Fiesta corporativa,Tecnología,Bogotá,394,55750000,38980000,46620000,realizado
+EV243,2025-05-15,Lanzamiento de producto,Salud,Medellín,116,25410000,16160000,17540000,realizado
+EV244,2025-05-18,Capacitación,Educación,Medellín,48,12150000,6840000,6900000,realizado
+EV245,2025-05-19,Capacitación,Educación,Medellín,44,11800000,6860000,,cancelado
+EV246,2025-05-22,Conferencia,Financiero,Medellín,121,22290000,13580000,13350000,realizado
+EV247,2025-05-24,Capacitación,Financiero,Cali,33,8180000,4680000,4680000,realizado
+EV248,2025-05-25,Conferencia,Tecnología,Medellín,237,41450000,25450000,25920000,realizado
+EV249,2025-05-27,Capacitación,Educación,Bogotá,37,9160000,5410000,5480000,realizado
+EV250,2025-05-28,Capacitación,Educación,Medellín,53,12580000,7130000,7440000,realizado
+EV251,2025-05-30,Fiesta corporativa,Financiero,Medellín,299,48350000,33270000,,cancelado
+EV252,2025-05-31,Capacitación,Educación,Medellín,26,6360000,3610000,3470000,realizado
+EV253,2025-06-01,Fiesta corporativa,Comercio,Medellín,253,34960000,24300000,28210000,realizado
+EV254,2025-06-02,Capacitación,Salud,Medellín,49,12270000,7040000,6980000,realizado
+EV255,2025-06-05,Lanzamiento de producto,Comercio,Cali,283,59330000,37530000,40350000,realizado
+EV256,2025-06-07,Capacitación,Financiero,Bogotá,60,13960000,7920000,8250000,realizado
+EV257,2025-06-10,Capacitación,Educación,Cali,34,8090000,4790000,4710000,realizado
+EV258,2025-06-14,Feria comercial,Tecnología,Medellín,651,63180000,44790000,53810000,realizado
+EV259,2025-06-18,Capacitación,Comercio,Medellín,22,5160000,2960000,2820000,realizado
+EV260,2025-06-19,Capacitación,Educación,Medellín,40,10110000,5870000,6010000,realizado
+EV261,2025-06-20,Conferencia,Educación,Bogotá,148,28600000,17890000,17950000,realizado
+EV262,2025-06-21,Fiesta corporativa,Financiero,Bogotá,447,66090000,46520000,52650000,realizado
+EV263,2025-06-22,Capacitación,Salud,Medellín,37,8880000,5140000,5180000,realizado
+EV264,2025-06-23,Conferencia,Tecnología,Medellín,115,19810000,12420000,12240000,realizado
+EV265,2025-06-25,Feria comercial,Salud,Bogotá,324,29380000,21180000,26040000,realizado
+EV266,2025-06-27,Fiesta corporativa,Financiero,Bogotá,421,66920000,46670000,54880000,realizado
+EV267,2025-06-28,Lanzamiento de producto,Tecnología,Cali,192,43690000,28890000,29040000,realizado
+EV268,2025-06-29,Feria comercial,Tecnología,Bogotá,430,36600000,27120000,33600000,realizado
+EV269,2025-06-30,Capacitación,Salud,Bogotá,32,7400000,4220000,4260000,realizado
+EV270,2025-07-01,Capacitación,Comercio,Medellín,29,7070000,4070000,4180000,realizado
+EV271,2025-07-03,Feria comercial,Comercio,Medellín,534,45640000,31990000,39810000,realizado
+EV272,2025-07-05,Conferencia,Salud,Medellín,108,20130000,12210000,11830000,realizado
+EV273,2025-07-07,Lanzamiento de producto,Salud,Medellín,251,54750000,35270000,37930000,realizado
+EV274,2025-07-08,Conferencia,Salud,Medellín,168,29970000,18340000,18650000,realizado
+EV275,2025-07-10,Capacitación,Educación,Cali,21,5530000,3140000,3240000,realizado
+EV276,2025-07-11,Capacitación,Financiero,Medellín,50,11990000,7010000,7220000,realizado
+EV277,2025-07-12,Conferencia,Educación,Medellín,118,22930000,14040000,13470000,realizado
+EV278,2025-07-13,Lanzamiento de producto,Comercio,Medellín,153,34130000,21590000,22180000,realizado
+EV279,2025-07-14,Lanzamiento de producto,Salud,Bogotá,243,50970000,33770000,35550000,realizado
+EV280,2025-07-18,Capacitación,Educación,Medellín,52,12290000,7180000,7490000,realizado
+EV281,2025-07-20,Lanzamiento de producto,Salud,Bogotá,209,44620000,29840000,30230000,realizado
+EV282,2025-07-21,Conferencia,Educación,Medellín,152,29200000,18430000,18670000,realizado
+EV283,2025-07-23,Conferencia,Salud,Bogotá,161,28720000,17920000,17260000,realizado
+EV284,2025-07-24,Capacitación,Comercio,Medellín,33,7620000,4540000,4560000,realizado
+EV285,2025-07-25,Capacitación,Educación,Medellín,50,13030000,7500000,7670000,realizado
+EV286,2025-07-26,Conferencia,Tecnología,Bogotá,238,45230000,28150000,28700000,realizado
+EV287,2025-07-28,Capacitación,Educación,Medellín,27,7170000,4230000,4180000,realizado
+EV288,2025-07-30,Feria comercial,Comercio,Medellín,484,45770000,32610000,40720000,realizado
+EV289,2025-08-01,Capacitación,Salud,Medellín,54,14380000,8160000,7820000,realizado
+EV290,2025-08-02,Capacitación,Salud,Medellín,55,13780000,7910000,8270000,realizado
+EV291,2025-08-05,Conferencia,Salud,Cali,141,27290000,16920000,16360000,realizado
+EV292,2025-08-06,Feria comercial,Tecnología,Bogotá,666,57880000,42120000,,cancelado
+EV293,2025-08-07,Fiesta corporativa,Tecnología,Medellín,348,51180000,35150000,44170000,realizado
+EV294,2025-08-08,Fiesta corporativa,Tecnología,Medellín,284,42250000,29870000,35740000,realizado
+EV295,2025-08-09,Capacitación,Comercio,Medellín,43,10180000,5920000,,cancelado
+EV296,2025-08-13,Capacitación,Salud,Cali,31,8360000,4850000,5020000,realizado
+EV297,2025-08-14,Conferencia,Tecnología,Medellín,185,33300000,21000000,20550000,realizado
+EV298,2025-08-16,Feria comercial,Salud,Medellín,353,31860000,23000000,25750000,realizado
+EV299,2025-08-17,Fiesta corporativa,Tecnología,Medellín,207,33080000,22900000,27370000,realizado
+EV300,2025-08-21,Capacitación,Educación,Bogotá,52,13160000,7740000,8060000,realizado
+EV301,2025-08-22,Conferencia,Educación,Medellín,84,15960000,9920000,9860000,realizado
+EV302,2025-08-23,Capacitación,Comercio,Bogotá,21,5320000,3170000,3020000,realizado
+EV303,2025-08-27,Capacitación,Salud,Bogotá,32,8570000,4990000,4870000,realizado
+EV304,2025-08-28,Fiesta corporativa,Comercio,Medellín,201,30390000,21570000,27170000,realizado
+EV305,2025-08-29,Fiesta corporativa,Financiero,Bogotá,363,58790000,41470000,52500000,realizado
+EV306,2025-08-30,Capacitación,Financiero,Medellín,42,10940000,6470000,6280000,realizado
+EV307,2025-08-31,Capacitación,Educación,Medellín,25,6640000,3940000,4140000,realizado
+EV308,2025-09-01,Capacitación,Comercio,Bogotá,36,9620000,5600000,5510000,realizado
+EV309,2025-09-03,Conferencia,Educación,Medellín,228,42780000,26390000,25800000,realizado
+EV310,2025-09-04,Capacitación,Financiero,Medellín,24,6260000,3650000,3790000,realizado
+EV311,2025-09-05,Fiesta corporativa,Financiero,Medellín,419,59080000,41570000,50360000,realizado
+EV312,2025-09-06,Lanzamiento de producto,Salud,Medellín,122,25730000,16720000,17630000,realizado
+EV313,2025-09-07,Lanzamiento de producto,Comercio,Bogotá,273,55970000,35390000,38260000,realizado
+EV314,2025-09-09,Conferencia,Financiero,Medellín,199,35460000,21960000,22380000,realizado
+EV315,2025-09-11,Conferencia,Educación,Medellín,107,18790000,11800000,11850000,realizado
+EV316,2025-09-14,Conferencia,Tecnología,Medellín,100,18990000,11450000,11030000,realizado
+EV317,2025-09-15,Capacitación,Educación,Medellín,48,12070000,7120000,7030000,realizado
+EV318,2025-09-17,Capacitación,Salud,Medellín,24,5780000,3270000,3260000,realizado
+EV319,2025-09-23,Capacitación,Salud,Medellín,47,11760000,6700000,6970000,realizado
+EV320,2025-09-24,Conferencia,Tecnología,Medellín,215,36340000,21890000,21320000,realizado
+EV321,2025-09-27,Conferencia,Tecnología,Bogotá,126,21150000,13320000,12830000,realizado
+EV322,2025-09-28,Feria comercial,Comercio,Medellín,329,29210000,20560000,24140000,realizado
+EV323,2025-09-29,Conferencia,Tecnología,Medellín,221,40620000,25370000,26120000,realizado
+EV324,2025-09-30,Conferencia,Tecnología,Medellín,123,23120000,14180000,13510000,realizado
+EV325,2025-10-03,Feria comercial,Salud,Bogotá,521,45460000,31800000,38880000,realizado
+EV326,2025-10-04,Fiesta corporativa,Tecnología,Medellín,194,31260000,21400000,26540000,realizado
+EV327,2025-10-08,Capacitación,Educación,Bogotá,59,14100000,8370000,8110000,realizado
+EV328,2025-10-09,Capacitación,Educación,Bogotá,52,13030000,7630000,7300000,realizado
+EV329,2025-10-11,Conferencia,Tecnología,Medellín,124,22500000,14080000,,cancelado
+EV330,2025-10-12,Lanzamiento de producto,Salud,Medellín,148,32830000,21370000,23330000,realizado
+EV331,2025-10-13,Fiesta corporativa,Financiero,Bogotá,466,69400000,48270000,58260000,realizado
+EV332,2025-10-14,Feria comercial,Salud,Bogotá,573,49250000,34990000,41960000,realizado
+EV333,2025-10-16,Lanzamiento de producto,Tecnología,Bogotá,287,62040000,40510000,43700000,realizado
+EV334,2025-10-17,Conferencia,Tecnología,Medellín,88,15870000,9820000,9700000,realizado
+EV335,2025-10-19,Capacitación,Educación,Bogotá,31,7560000,4270000,4240000,realizado
+EV336,2025-10-20,Lanzamiento de producto,Comercio,Bogotá,100,20820000,13260000,14490000,realizado
+EV337,2025-10-21,Capacitación,Educación,Medellín,58,14280000,8450000,8340000,realizado
+EV338,2025-10-22,Conferencia,Financiero,Medellín,158,28310000,17570000,18320000,realizado
+EV339,2025-10-23,Lanzamiento de producto,Comercio,Medellín,169,38770000,24930000,26380000,realizado
+EV339,2025-10-23,Lanzamiento de producto,Comercio,Medellín,169,38770000,24930000,26380000,realizado
+EV340,2025-10-25,Conferencia,Tecnología,Bogotá,236,41610000,25550000,25350000,realizado
+EV341,2025-10-26,Capacitación,Salud,Medellín,38,10010000,5950000,6050000,realizado
+EV342,2025-10-27,Capacitación,Educación,Medellín,56,13040000,7440000,7280000,realizado
+EV343,2025-10-29,Conferencia,Financiero,Medellín,224,41220000,26000000,25710000,realizado
+EV344,2025-10-30,Fiesta corporativa,Comercio,Medellín,280,42400000,29680000,35930000,realizado
+EV345,2025-11-02,Fiesta corporativa,Financiero,Cali,242,36830000,26110000,32920000,realizado
+EV346,2025-11-04,Lanzamiento de producto,Salud,Medellín,264,61470000,40620000,43030000,realizado
+EV347,2025-11-07,Conferencia,Salud,Medellín,141,25010000,15340000,15610000,realizado
+EV348,2025-11-08,Capacitación,Salud,Medellín,26,6890000,4100000,4180000,realizado
+EV349,2025-11-09,conferencia,Salud,Medellín,131,22000000,13460000,13130000,realizado
+EV350,2025-11-10,Capacitación,Educación,Medellín,42,11320000,6640000,6760000,realizado
+EV351,2025-11-11,Conferencia,Financiero,Bogotá,102,18440000,11670000,11540000,realizado
+EV352,2025-11-16,Feria comercial,Comercio,Medellín,468,41700000,29840000,35660000,realizado
+EV353,2025-11-21,Fiesta corporativa,Financiero,Medellín,293,41870000,29170000,,cancelado
+EV354,2025-11-22,Conferencia,Educación,Medellín,232,38460000,23810000,23500000,realizado
+EV355,2025-11-23,Fiesta corporativa,Financiero,Medellín,444,71470000,48820000,62080000,realizado
+EV356,2025-11-25,Conferencia,Tecnología,Medellín,248,47420000,30230000,31180000,realizado
+EV357,2025-11-26,Conferencia,Salud,Medellín,178,33880000,20910000,21600000,realizado
+EV358,2025-11-27,Capacitación,Salud,Bogotá,59,13820000,7930000,7680000,realizado
+EV359,2025-11-28,Feria comercial,Comercio,Medellín,677,59090000,42800000,51310000,realizado
+EV360,2025-12-02,Capacitación,Educación,Medellín,55,13930000,8300000,8400000,realizado
+EV361,2025-12-03,Capacitación,Comercio,Medellín,23,5660000,3330000,3430000,realizado
+EV362,2025-12-04,Fiesta corporativa,Financiero,Medellín,274,40000000,28470000,34060000,realizado
+EV363,2025-12-06,Capacitación,Financiero,Medellín,46,11460000,6450000,6720000,realizado
+EV364,2025-12-07,Feria comercial,Salud,Bogotá,446,42260000,30480000,36650000,realizado
+EV365,2025-12-08,Lanzamiento de producto,Tecnología,Medellín,101,22170000,14080000,14120000,realizado
+EV366,2025-12-10,Capacitación,Salud,Medellín,52,12270000,6930000,6930000,realizado
+EV367,2025-12-11,Conferencia,Educación,Medellín,240,42540000,26100000,25720000,realizado
+EV368,2025-12-12,Capacitación,Financiero,Medellín,41,10770000,6310000,6500000,realizado
+EV369,2025-12-14,Feria comercial,Salud,Bogotá,457,44190000,32110000,39760000,realizado
+EV370,2025-12-16,Conferencia,Tecnología,Bogotá,193,34880000,21060000,20230000,realizado
+EV371,2025-12-22,Feria comercial,Comercio,Medellín,756,62790000,46280000,53520000,realizado
+EV372,2025-12-25,Capacitación,Comercio,Medellín,43,11400000,6610000,6670000,realizado
+EV373,2025-12-26,Capacitación,Comercio,Medellín,36,9090000,5400000,5470000,realizado
+EV374,2025-12-29,Capacitación,Educación,Bogotá,39,10300000,5800000,5540000,realizado
+EV375,2025-12-30,Conferencia,Tecnología,Medellín,185,32440000,20530000,20840000,realizado
+EV376,2025-12-31,Capacitación,Financiero,Bogotá,49,12970000,7410000,7570000,realizado
+EV377,2026-01-03,Fiesta corporativa,Financiero,Cali,365,44820000,31460000,38940000,realizado
+EV378,2026-01-04,Feria comercial,Tecnología,Bogotá,464,38160000,28220000,34550000,realizado
+EV379,2026-01-05,Conferencia,Tecnología,Bogotá,165,30960000,19760000,20380000,realizado
+EV380,2026-01-06,Fiesta corporativa,Comercio,Bogotá,415,57050000,40860000,50110000,realizado
+EV381,2026-01-07,Fiesta corporativa,Tecnología,Bogotá,418,58630000,41490000,52380000,realizado
+EV382,2026-01-10,Capacitación,Educación,Bogotá,21,5390000,3090000,2940000,realizado
+EV383,2026-01-11,Feria comercial,Tecnología,Cali,599,51100000,37180000,45130000,realizado
+EV384,2026-01-12,Feria comercial,Tecnología,Bogotá,582,43390000,31220000,37210000,realizado
+EV385,2026-01-13,Capacitación,Financiero,Medellín,25,6070000,3620000,3450000,realizado
+EV386,2026-01-14,Fiesta corporativa,Financiero,Medellín,379,50510000,35720000,43740000,realizado
+EV387,2026-01-15,Feria comercial,Comercio,Medellín,792,61890000,45460000,56690000,realizado
+EV388,2026-01-17,Capacitación,Educación,Cali,51,12100000,7130000,7450000,realizado
+EV389,2026-01-19,Capacitación,Comercio,Medellín,20,5210000,3080000,2930000,realizado
+EV390,2026-01-21,Conferencia,Salud,Bogotá,231,38290000,24040000,23530000,realizado
+EV391,2026-01-22,Fiesta corporativa,Tecnología,Medellín,452,58840000,42120000,51500000,realizado
+EV392,2026-01-24,Fiesta corporativa,Tecnología,Medellín,485,66940000,48190000,58070000,realizado
+EV393,2026-01-26,Capacitación,Salud,Medellín,44,11830000,7030000,,realizado
+EV394,2026-01-28,Conferencia,Salud,Bogotá,184,32530000,20650000,,cancelado
+EV395,2026-01-30,Lanzamiento de producto,Comercio,Medellín,193,40990000,27160000,28770000,realizado
+EV396,2026-01-31,Lanzamiento de producto,Tecnología,Bogotá,254,52690000,34640000,36070000,realizado
+EV397,2026-02-01,Capacitación,Salud,Medellín,55,13280000,7620000,7450000,realizado
+EV398,2026-02-02,Capacitación,Financiero,Medellín,52,13670000,7780000,7800000,realizado
+EV399,2026-02-03,Conferencia,Educación,Bogotá,105,18170000,11080000,11260000,realizado
+EV400,2026-02-04,Fiesta corporativa,Financiero,Bogotá,154,20230000,14080000,16270000,realizado
+EV401,2026-02-30,Fiesta corporativa,Financiero,Bogotá,403,49030000,34230000,38700000,realizado
+EV402,2026-02-06,Feria comercial,Tecnología,Medellín,333,24830000,17630000,20310000,realizado
+EV403,2026-02-07,Capacitación,Financiero,Cali,24,5580000,3290000,3440000,realizado
+EV404,2026-02-08,Fiesta corporativa,Financiero,Bogotá,348,47800000,33120000,39180000,realizado
+EV405,2026-02-09,Fiesta corporativa,Tecnología,Bogotá,213,28190000,19520000,23740000,realizado
+EV406,2026-02-11,Feria comercial,Comercio,Medellín,771,64810000,46370000,53480000,realizado
+EV407,2026-02-12,Fiesta corporativa,Comercio,Bogotá,435,53030000,37930000,44840000,realizado
+EV408,2026-02-14,Fiesta corporativa,Financiero,Medellín,160,22100000,15660000,,cancelado
+EV409,2026-02-15,Conferencia,Educación,Medellín,89,17110000,10530000,10890000,realizado
+EV410,2026-02-16,Capacitación,Educación,Cali,52,12470000,7190000,6990000,realizado
+EV411,2026-02-17,Fiesta corporativa,Tecnología,Medellín,439,60690000,41600000,48500000,realizado
+EV412,2026-02-18,Feria comercial,Tecnología,Bogotá,769,56680000,41200000,46320000,realizado
+EV413,2026-02-19,Lanzamiento de producto,Tecnología,Medellín,208,45350000,29190000,31180000,realizado
+EV414,2026-02-20,Fiesta corporativa,Tecnología,Bogotá,384,53710000,38100000,45270000,realizado
+EV415,2026-02-21,Conferencia,Educación,Cali,245,44200000,26770000,26230000,realizado
+EV416,2026-02-22,Feria comercial,Comercio,Bogotá,780,61340000,43510000,49020000,realizado
+EV417,2026-02-23,Conferencia,Educación,Medellín,177,29770000,18070000,,cancelado
+EV418,2026-02-24,Capacitación,Comercio,Bogotá,32,7450000,4360000,4220000,realizado
+EV419,2026-02-25,Capacitación,Salud,Bogotá,54,14360000,8430000,8040000,realizado
+EV420,2026-02-26,Capacitación,Educación,Medellín,46,11090000,6580000,6480000,realizado
+EV421,2026-02-27,Capacitación,Educación,Bogotá,42,10420000,6190000,6160000,realizado
+EV422,2026-02-28,Lanzamiento de producto,Comercio,Medellín,271,61920000,41020000,41780000,realizado
+EV423,2026-03-01,Fiesta corporativa,Tecnología,Medellín,304,36720000,26160000,32560000,realizado
+EV424,2026-03-03,Conferencia,Tecnología,Medellín,112,19190000,11950000,11610000,realizado
+EV425,2026-03-04,Feria comercial,Comercio,Medellín,331,24960000,18030000,20450000,realizado
+EV426,2026-03-06,capacitación,Financiero,Bogotá,49,12470000,7440000,7740000,realizado
+EV427,2026-03-07,Conferencia,Tecnología,Medellín,104,19780000,12390000,12850000,realizado
+EV428,2026-03-08,Fiesta corporativa,Tecnología,Medellín,343,45110000,31400000,37940000,realizado
+EV429,2026-03-09,Lanzamiento de producto,Salud,Medellín,192,44280000,28200000,28580000,realizado
+EV430,2026-03-10,Fiesta corporativa,Tecnología,Bogotá,490,65340000,45280000,56110000,realizado
+EV431,2026-03-12,Feria comercial,Tecnología,Medellín,588,46720000,34640000,41000000,realizado
+EV432,2026-03-13,Feria comercial,Comercio,Bogotá,300,24230000,17350000,21220000,realizado
+EV433,2026-03-14,Fiesta corporativa,Financiero,Medellín,363,48700000,34250000,40230000,realizado
+EV434,2026-03-15,Feria comercial,Salud,Bogotá,799,62080000,44800000,54190000,realizado
+EV435,2026-03-16,Capacitación,Comercio,Medellín,31,8020000,4510000,4520000,realizado
+EV436,2026-03-17,Conferencia,Salud,Medellín,176,33330000,20150000,,cancelado
+EV437,2026-03-18,Lanzamiento de producto,Tecnología,Medellín,167,38540000,24400000,26780000,realizado
+EV438,2026-03-19,Feria comercial,Tecnología,Medellín,386,30790000,21870000,26550000,realizado
+EV439,2026-03-20,Fiesta corporativa,Comercio,Medellín,172,22730000,16020000,18220000,realizado
+EV440,2026-03-22,Conferencia,Educación,Medellín,111,20810000,12890000,12460000,realizado
+EV441,2026-03-23,Capacitación,Salud,Medellín,52,13800000,8040000,,cancelado
+EV442,2026-03-24,Fiesta corporativa,Financiero,Medellín,336,43400000,29620000,34990000,realizado
+EV443,2026-03-25,Capacitación,Financiero,Bogotá,47,11980000,6830000,6730000,realizado
+EV444,2026-03-26,Fiesta corporativa,Financiero,Cali,415,54480000,37240000,45130000,realizado
+EV445,2026-03-27,Capacitación,Educación,Bogotá,29,7140000,4060000,4050000,realizado
+EV446,2026-03-29,Lanzamiento de producto,Salud,Bogotá,291,60740000,39960000,40370000,realizado
+EV447,2026-03-30,Lanzamiento de producto,Comercio,Medellín,124,27010000,18000000,18930000,realizado
+EV448,2026-03-31,Capacitación,Salud,Medellín,47,11830000,7060000,6800000,realizado
+EV449,2026-04-01,Conferencia,Educación,Bogotá,134,25250000,16060000,16710000,realizado
+EV450,2026-04-02,Fiesta corporativa,Financiero,Bogotá,300,40520000,28070000,34430000,realizado
+EV451,2026-04-04,Feria comercial,Comercio,Bogotá,718,55500000,40420000,45520000,realizado
+EV452,2026-04-05,Fiesta corporativa,Financiero,Bogotá,236,30850000,21490000,24090000,realizado
+EV453,2026-04-06,Conferencia,Financiero,Medellín,160,26840000,16720000,17400000,realizado
+EV454,2026-04-07,Capacitación,Educación,Medellín,35,8670000,5080000,5280000,realizado
+EV455,2026-04-08,Capacitación,Comercio,Medellín,60,15400000,8880000,8560000,realizado
+EV456,2026-04-10,Fiesta corporativa,Financiero,Bogotá,166,21620000,15510000,19170000,realizado
+EV457,2026-04-12,Capacitación,Salud,Medellín,30,7630000,4420000,4500000,realizado
+EV458,2026-04-15,Capacitación,Educación,Medellín,51,12720000,7320000,7230000,realizado
+EV459,2026-04-16,Capacitación,Financiero,Bogotá,53,13660000,7800000,7800000,realizado
+EV460,2026-04-17,Conferencia,Financiero,Medellín,157,28900000,17690000,18390000,realizado
+EV461,2026-04-18,Lanzamiento de producto,Tecnología,Cali,121,26870000,17850000,19050000,realizado
+EV461,2026-04-18,Lanzamiento de producto,Tecnología,Cali,121,26870000,17850000,19050000,realizado
+EV462,2026-04-21,Feria comercial,Comercio,Medellín,456,38510000,27500000,34310000,realizado
+EV463,2026-04-22,Feria comercial,Salud,Medellín,312,24070000,17300000,19530000,realizado
+EV464,2026-04-25,Lanzamiento de producto,Tecnología,Medellín,172,37480000,24560000,26870000,realizado
+EV465,2026-04-26,Conferencia,Educación,Bogotá,82,13670000,8400000,8400000,realizado
+EV466,2026-04-27,Capacitación,Financiero,Bogotá,50,12770000,7420000,7060000,realizado
+EV467,2026-04-28,Conferencia,Educación,Medellín,118,20970000,13110000,12850000,realizado
+EV468,2026-04-29,Fiesta corporativa,Financiero,Medellín,213,28270000,19790000,24170000,realizado
+EV469,2026-05-01,Fiesta corporativa,Comercio,Bogotá,250,34880000,25100000,31200000,realizado
+EV470,2026-05-03,Capacitación,Financiero,Bogotá,36,9420000,5360000,5610000,realizado
+EV471,2026-05-04,Conferencia,Salud,Cali,91,15480000,9530000,9810000,realizado
+EV472,2026-05-05,Fiesta corporativa,Financiero,Medellín,421,54270000,39110000,44900000,realizado
+EV473,2026-05-06,Lanzamiento de producto,Comercio,Cali,281,63220000,39960000,40850000,realizado
+EV474,2026-05-08,Fiesta corporativa,Financiero,Bogotá,217,27950000,19700000,23410000,realizado
+EV475,2026-05-09,Feria comercial,Comercio,Bogotá,528,41630000,29150000,34550000,realizado
+EV476,2026-05-10,Fiesta corporativa,Financiero,Medellín,327,39120000,26870000,30160000,realizado
+EV477,2026-05-11,Conferencia,Tecnología,Medellín,231,42130000,26660000,25900000,realizado
+EV478,2026-05-14,Fiesta corporativa,Financiero,Medellín,408,55160000,38540000,44530000,realizado
+EV479,2026-05-15,Feria comercial,Comercio,Bogotá,783,61270000,44710000,53100000,realizado
+EV480,2026-05-16,Lanzamiento de producto,Comercio,Medellín,165,35220000,23010000,24010000,realizado
+EV481,2026-05-17,Conferencia,Salud,Medellín,109,18500000,11140000,11150000,realizado
+EV482,2026-05-18,Capacitación,Educación,Medellín,56,14710000,8750000,8900000,realizado
+EV483,2026-05-19,Capacitación,Educación,Bogotá,39,9910000,5750000,5740000,realizado
+EV484,2026-05-20,Lanzamiento de producto,Comercio,Bogotá,285,65070000,41340000,,cancelado
+EV485,2026-05-21,Feria comercial,Tecnología,Bogotá,317,25450000,18190000,20420000,realizado
+EV486,2026-05-22,Fiesta corporativa,Financiero,Medellín,150,19260000,13270000,16300000,realizado
+EV487,2026-05-24,Fiesta corporativa,Tecnología,Medellín,259,36030000,24550000,29410000,realizado
+EV488,2026-05-25,Fiesta corporativa,Financiero,Cali,250,34780000,23950000,27520000,realizado
+EV489,2026-05-27,Feria comercial,Tecnología,Medellín,614,45720000,32790000,,cancelado
+EV490,2026-05-28,Conferencia,Educación,Bogotá,93,15410000,9350000,,cancelado
+EV491,2026-05-31,Fiesta corporativa,Tecnología,Bogotá,252,35370000,24640000,29140000,realizado
+EV492,2026-06-04,Capacitación,Salud,Medellín,45,10490000,6030000,5760000,realizado
+EV493,2026-06-06,Lanzamiento de producto,Salud,Cali,203,44290000,29520000,29880000,realizado
+EV494,2026-06-07,Feria comercial,Comercio,Medellín,306,26050000,19000000,21030000,realizado
+EV495,2026-06-08,Conferencia,Tecnología,Medellín,202,36460000,22060000,22490000,realizado
+EV496,2026-06-09,Capacitación,Salud,Medellín,22,5370000,3140000,3240000,realizado
+EV497,2026-06-10,Lanzamiento de producto,Tecnología,Medellín,233,47180000,31180000,32520000,realizado
+EV498,2026-06-12,Feria comercial,Comercio,Cali,682,50980000,37190000,,cancelado
+EV499,2026-06-13,Feria comercial,Comercio,Medellín,358,28520000,20070000,24660000,realizado
+EV500,2026-06-15,Conferencia,Tecnología,Medellín,243,46700000,28570000,27410000,realizado
+EV501,2026-06-16,Conferencia,Tecnología,Medellín,144,24420000,14790000,14910000,realizado
+EV502,2026-06-17,Lanzamiento de producto,Tecnología,Bogotá,232,51670000,32640000,34760000,realizado
+EV503,2026-06-18,Feria comercial,Comercio,Cali,681,58430000,43210000,49920000,realizado
+EV504,2026-06-19,Fiesta corporativa,Financiero,Medellín,190,23300000,16060000,19060000,realizado
+EV504,2026-06-19,Fiesta corporativa,Financiero,Medellín,190,23300000,16060000,19060000,realizado
+EV505,2026-06-20,Fiesta corporativa,Financiero,Medellín,387,47400000,33940000,43360000,realizado
+EV506,2026-06-21,Feria comercial,Tecnología,Bogotá,592,48160000,35580000,42070000,realizado
+EV507,2026-06-22,Feria comercial,Salud,Bogotá,754,61960000,44040000,49360000,realizado
+EV508,2026-06-24,Capacitación,Salud,Cali,54,12880000,7420000,7210000,realizado
+EV509,2026-06-25,Conferencia,Tecnología,Bogotá,94,17730000,11190000,11020000,realizado
+EV510,2026-06-28,Fiesta corporativa,Tecnología,Medellín,210,27770000,19420000,22590000,realizado
+EV511,2026-06-30,Fiesta corporativa,Financiero,Medellín,173,21290000,14590000,18290000,realizado
+EV512,2026-07-01,Conferencia,Educación,Cali,135,25300000,15490000,15270000,realizado
+EV513,2026-07-02,Lanzamiento de producto,Tecnología,Bogotá,105,20990000,13880000,14160000,realizado
+EV514,2026-07-03,Fiesta corporativa,Financiero,Medellín,473,59010000,41400000,50110000,realizado
+EV515,2026-07-04,Feria comercial,Comercio,Medellín,471,40610000,28760000,35550000,realizado
+EV516,2026-07-05,Fiesta corporativa,Tecnología,Medellín,219,30610000,21930000,27700000,realizado
+EV517,2026-07-06,Conferencia,Tecnología,Medellín,205,36260000,22720000,23610000,realizado
+EV518,2026-07-07,Fiesta corporativa,Tecnología,Medellín,291,36670000,24920000,,cancelado
+EV519,2026-07-08,Capacitación,Financiero,Bogotá,25,6690000,3940000,3860000,realizado
+EV520,2026-07-09,Fiesta corporativa,Financiero,Bogotá,473,65280000,45570000,,cancelado
+EV521,2026-07-10,Feria comercial,Comercio,Medellín,368,30240000,21630000,25540000,realizado
+EV522,2026-07-11,Capacitación,Salud,Medellín,44,10160000,5970000,6050000,realizado
+EV523,2026-07-12,Lanzamiento de producto,Salud,Medellín,174,38390000,25010000,25670000,realizado
+EV524,2026-07-13,Feria comercial,Comercio,Medellín,693,56330000,40960000,48080000,realizado
+EV525,2026-07-15,Lanzamiento de producto,Tecnología,Bogotá,121,26800000,17000000,17790000,realizado
+EV526,2026-07-16,Lanzamiento de producto,Comercio,Medellín,182,37110000,23510000,25720000,realizado
+EV527,2026-07-17,Capacitación,Educación,Medellín,26,6160000,3490000,3630000,realizado
+EV528,2026-07-18,Capacitación,Salud,Bogotá,38,8860000,5240000,5110000,realizado
+EV529,2026-07-19,Capacitación,Educación,Cali,45,11360000,6590000,6270000,realizado
+EV530,2026-07-22,Fiesta corporativa,Tecnología,Bogotá,443,55090000,37760000,42570000,realizado
+EV531,2026-07-23,Lanzamiento de producto,Comercio,Medellín,299,61520000,39420000,43290000,realizado
+EV532,2026-07-24,Conferencia,Tecnología,Medellín,164,31000000,19400000,20310000,realizado
+EV533,2026-07-25,Conferencia,Educación,Bogotá,152,29420000,18650000,18940000,realizado
+EV534,2026-07-26,Lanzamiento de producto,Tecnología,Medellín,241,50080000,31980000,32070000,realizado
+EV535,2026-07-28,Fiesta corporativa,Financiero,Medellín,487,63750000,43980000,52900000,realizado
+EV536,2026-07-29,Capacitación,Salud,Medellín,20,4760000,2800000,2690000,realizado
+EV537,2026-07-31,Feria comercial,Comercio,Bogotá,383,30340000,21350000,24310000,realizado
+EV538,2026-08-02,Fiesta corporativa,Tecnología,Bogotá,0,57820000,40260000,51190000,realizado
+EV539,2026-08-03,Feria comercial,Comercio,Medellín,304,24520000,18120000,21620000,realizado
+EV540,2026-08-04,Conferencia,Tecnología,Bogotá,158,27180000,16680000,16060000,realizado
+EV541,2026-08-08,Feria comercial,Salud,Medellín,458,35620000,25210000,27790000,realizado
+EV542,2026-08-09,Feria comercial,Comercio,Medellín,591,49690000,36720000,41970000,realizado
+EV543,2026-08-11,Conferencia,Educación,Bogotá,95,17990000,10980000,11020000,realizado
+EV544,2026-08-12,Lanzamiento de producto,Comercio,Bogotá,262,56450000,37740000,40880000,realizado
+EV545,2026-08-13,Lanzamiento de producto,Comercio,Cali,216,46710000,31080000,32870000,realizado
+EV546,2026-08-16,Capacitación,Educación,Bogotá,37,8540000,4930000,5060000,realizado
+EV547,2026-08-17,Feria comercial,Comercio,Medellín,469,38830000,27770000,,cancelado
+EV548,2026-08-18,Lanzamiento de producto,Comercio,Medellín,102,22760000,14660000,14950000,realizado
+EV549,2026-08-19,Fiesta corporativa,Financiero,Bogotá,396,52290000,36530000,41470000,realizado
+EV550,2026-08-20,Lanzamiento de producto,Salud,Bogotá,158,33270000,21250000,23320000,realizado
+EV551,2026-08-22,Conferencia,Tecnología,Medellín,249,48280000,30440000,,cancelado
+EV552,2026-08-24,Feria comercial,Comercio,Bogotá,393,33100000,23340000,27100000,realizado
+EV553,2026-08-25,Lanzamiento de producto,Comercio,Medellín,226,45860000,30380000,31290000,realizado
+EV554,2026-08-27,Capacitación,Financiero,Bogotá,56,13880000,8260000,8370000,realizado
+EV555,2026-08-28,Conferencia,Tecnología,Medellín,246,42870000,26840000,26830000,realizado
+EV556,2026-08-29,Fiesta corporativa,Comercio,Medellín,259,33910000,24100000,29380000,realizado
+EV557,2026-08-30,Capacitación,Educación,Medellín,56,14060000,8010000,7700000,realizado
+EV558,2026-08-31,Fiesta corporativa,Financiero,Medellín,252,31940000,22120000,27570000,realizado
+EV559,2026-09-01,Fiesta corporativa,Financiero,Medellín,457,58680000,40920000,50710000,realizado
+EV560,2026-09-02,Conferencia,Educación,Bogotá,124,22280000,14020000,14270000,realizado
+EV561,2026-09-03,Capacitación,Salud,Bogotá,60,14420000,8590000,8560000,realizado
+EV562,2026-09-04,Fiesta corporativa,Financiero,Medellín,447,58650000,40650000,48810000,realizado
+EV563,2026-09-06,Lanzamiento de producto,Salud,Bogotá,273,62820000,39800000,40210000,realizado
+EV564,2026-09-07,Conferencia,Financiero,Cali,214,38130000,24050000,24780000,realizado
+EV565,2026-09-08,Fiesta corporativa,Comercio,Cali,311,38450000,27050000,33340000,realizado
+EV566,2026-09-09,Conferencia,Tecnología,Medellín,191,34320000,20940000,20730000,realizado
+EV567,2026-09-10,Conferencia,Financiero,Medellín,238,45140000,28350000,27910000,realizado
+EV568,2026-09-12,Capacitación,Salud,Medellín,25,6480000,3840000,3730000,realizado
+EV569,2026-09-13,Conferencia,Salud,Bogotá,189,33810000,20450000,20840000,realizado
+EV570,2026-09-14,Capacitación,Educación,Medellín,42,9750000,5610000,5440000,realizado
+EV571,2026-09-15,Lanzamiento de producto,Comercio,Medellín,259,52350000,33310000,,cancelado
+EV572,2026-09-17,Capacitación,Comercio,Medellín,28,7130000,4040000,3840000,realizado
+EV573,2026-09-18,Fiesta corporativa,Financiero,Bogotá,343,42310000,29930000,35640000,realizado
+EV574,2026-09-19,Feria comercial,Salud,Medellín,571,49110000,35860000,40420000,realizado
+EV575,2026-09-20,Fiesta corporativa,Comercio,Cali,206,27610000,18940000,21690000,realizado
+EV576,2026-09-21,Conferencia,Educación,Medellín,136,24660000,15460000,14760000,realizado
+EV577,2026-09-22,Fiesta corporativa,Financiero,Cali,0,21790000,15700000,18520000,realizado
+EV578,2026-09-23,Fiesta corporativa,Financiero,Medellín,187,24300000,16940000,21170000,realizado
+EV579,2026-09-24,Feria comercial,Comercio,Bogotá,340,26420000,19010000,23220000,realizado
+EV580,2026-09-25,Feria comercial,Comercio,Bogotá,577,45660000,33150000,41030000,realizado
+EV581,2026-09-26,Feria comercial,Comercio,Bogotá,401,32890000,23520000,,realizado
+EV582,2026-09-27,Feria comercial,Salud,Cali,471,38500000,27750000,34060000,realizado
+EV583,2026-09-29,Capacitación,Comercio,Medellín,30,7330000,4300000,4120000,realizado
+EV584,2026-09-30,Capacitación,Educación,Medellín,40,9520000,5690000,5640000,realizado
+EV585,2026-10-01,Capacitación,Salud,Medellín,53,12720000,7530000,7350000,realizado
+EV586,2026-10-02,Feria comercial,Tecnología,Bogotá,404,33510000,24380000,29600000,realizado
+EV587,2026-10-05,Fiesta corporativa,Financiero,Medellín,291,36110000,25730000,28860000,realizado
+EV588,2026-10-06,Capacitación,Educación,Medellín,60,16180000,9390000,9830000,realizado
+EV589,2026-10-07,Feria comercial,Comercio,Medellín,334,25940000,19050000,21220000,realizado
+EV590,2026-10-08,Feria comercial,Comercio,Medellín,744,61080000,43350000,51910000,realizado
+EV591,2026-10-09,Fiesta corporativa,Tecnología,Medellín,170,23370000,16520000,,cancelado
+EV592,2026-10-11,Fiesta corporativa,Financiero,Medellín,491,68660000,48120000,61000000,realizado
+EV593,2026-10-12,Fiesta corporativa,Financiero,Cali,307,41370000,29710000,35630000,realizado
+EV594,2026-10-15,Conferencia,Financiero,Bogotá,114,19360000,11660000,11500000,realizado
+EV595,2026-10-17,Lanzamiento de producto,Tecnología,Medellín,163,35810000,23560000,25550000,realizado
+EV596,2026-10-18,Capacitación,Salud,Cali,35,9400000,5580000,5640000,realizado
+EV597,2026-10-19,Fiesta corporativa,Financiero,Medellín,443,53540000,36760000,44980000,realizado
+EV598,2026-10-20,Lanzamiento de producto,Salud,Medellín,255,55840000,36610000,36780000,realizado
+EV599,2026-10-21,Conferencia,Financiero,Medellín,242,44730000,28120000,29090000,realizado
+EV600,2026-10-22,Feria comercial,Salud,Medellín,337,27680000,19550000,23050000,realizado
+EV601,2026-10-24,Fiesta corporativa,Comercio,Medellín,205,28640000,20240000,,cancelado
+EV602,2026-10-25,Conferencia,Financiero,Bogotá,95,17650000,10860000,10880000,realizado
+EV603,2026-10-27,Feria comercial,Tecnología,Medellín,344,26070000,19070000,23410000,realizado
+EV604,2026-10-28,Capacitación,Salud,Medellín,45,12040000,7130000,6990000,realizado
+EV605,2026-10-29,Lanzamiento de producto,Comercio,Medellín,181,38840000,25140000,27560000,realizado
+EV606,2026-10-31,Lanzamiento de producto,Tecnología,Bogotá,163,35870000,23410000,24280000,realizado

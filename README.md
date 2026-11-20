@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Análisis de ventas y rentabilidad de eventos 
 
 Equipo E2 · Análisis de Datos Básico · Estud-IA (Capa 2)
 

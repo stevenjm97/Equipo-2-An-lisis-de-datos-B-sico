@@ -47,8 +47,7 @@ Escribe aquí.
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
-
-Escribe aquí. 
+ 
 financieros ni la identificación de factores externos que puedan afectar el comportamiento comercial.
 Tampoco busca medir la satisfacción de los clientes, evaluar el desempeño individual de los colaboradores, garantizar proyecciones de ventas futuras ni realizar una optimización integral de los procesos operativos.
 El análisis se limitará a la información histórica disponible en la base de datos, enfocándose en el comportamiento de las ventas, los costos estimados y reales, la utilidad por evento y los márgenes de rentabilidad por tipo de evento, ciudad y sector del cliente.
@@ -59,27 +58,19 @@ Las conclusiones y recomendaciones estarán condicionadas a la calidad, integrid
 ### Dos comparaciones útiles
 > Por ejemplo: por mes, por comuna, por categoría.
 
-1.  Comparación de rentabilidad por mes 
+1.  Comparación de rentabilidad por mes : Comparar mes a mes el precio de venta, el costo real y la utilidad obtenida por los eventos, para identificar en qué meses se vende más y si ese crecimiento se está traduciendo en   mayor rentabilidad.
 
-    Comparar mes a mes el precio de venta, el costo real y la utilidad obtenida por los eventos, para identificar en qué meses se vende más y si ese crecimiento se está traduciendo en   mayor rentabilidad.
-
-2. Comparación de rentabilidad por tipo de evento y ciudad
-
-Comparar los diferentes tipos de eventos y ciudades según ingresos, costos reales, número de eventos y margen de rentabilidad, para identificar cuáles mercados y servicios son más rentables.
+2. Comparación de rentabilidad por tipo de evento y ciudad: Comparar los diferentes tipos de eventos y ciudades según ingresos, costos reales, número de eventos y margen de rentabilidad, para identificar cuáles mercados y servicios son más rentables.
 
 
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
 
-1. Datos financieros incompletos o inconsistentes
-
-Puede haber registros con costos reales, costos estimados o precios de venta vacíos, en cero o con valores inconsistentes. Validaría que cada evento tenga información financiera completa antes de calcular la rentabilidad.
-2. Errores en fechas y categorización
-
-Las fechas podrían estar mal registradas y los tipos de evento, sectores o ciudades podrían tener nombres diferentes para una misma categoría. Estandarizaría estos campos para evitar resultados duplicados o comparaciones incorrectas.
-3. Fallas o desactualización de la fuente de información
-
-Si la base de datos deja de actualizarse o falla la fuente, el análisis podría presentar cifras incompletas. Implementaría controles de actualización, validación de registros y una fecha de última carga para identificar cuándo los datos dejan de ser confiables.
+1. Datos financieros incompletos o inconsistentes: Puede haber registros con costos reales, costos estimados o precios de venta vacíos, en cero o con valores inconsistentes. Validaría que cada evento tenga información financiera completa antes de calcular la rentabilidad.
+   
+2. Errores en fechas y categorización:Las fechas podrían estar mal registradas y los tipos de evento, sectores o ciudades podrían tener nombres diferentes para una misma categoría. Estandarizaría estos campos para evitar resultados duplicados o comparaciones incorrectas.
+   
+3. Fallas o desactualización de la fuente de información: Si la base de datos deja de actualizarse o falla la fuente, el análisis podría presentar cifras incompletas. Implementaría controles de actualización, validación de registros y una fecha de última carga para identificar cuándo los datos dejan de ser confiables.
 
 ### Mapa de preguntas
 - ¿Qué pasó? Número de eventos realizados, ventas totales, costos reales, utilidad y margen de rentabilidad.
